@@ -14,6 +14,7 @@ Automatic Processing
 ====================
 
 Eventuality/emergency training and practice focuses again not on cognitive understanding but training so that student is able to respond subconscious and automatic to risks, etc, etc.
+edit 2
 
 Habit Formation
 ===============
@@ -24,6 +25,7 @@ Psychological and Behavioural Factors in Risk Management
 ========================================================
 
 Irrationality in risk/reward decisions, etc, etc
+edit 1
 
 The importance of retrieval and testing for learning
 ====================================================
